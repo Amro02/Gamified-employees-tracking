@@ -1,6 +1,6 @@
-# RAFIQ | ERP Employee Tracking System – Frontend
+# RAFIQ | ERP Employee Tracking System
 
-This repository contains the frontend application for  **(RAFIQ)**  ERP Employee Tracking System.
+This repository contains the application for  **(RAFIQ)**  ERP Employee Tracking System.
 The system enables managers to assign tasks, track employee locations in real-time, and evaluate
 performance using operational KPIs.
 
